@@ -34,7 +34,7 @@ La página web debe incluir campos para ingresar el texto que se encriptará o d
 
 ## Diseño final
 
-Aquí tienes el enlace del proyecto finalizado para que puedas verlo: [Enlace del proyecto finalizado](URL del proyecto finalizado)
+Aquí tienes el enlace del proyecto finalizado para que puedas verlo: [[Enlace del proyecto finalizado](URL del proyecto finalizado)
 
 
-
+](https://santos-arellano.github.io/Encriptador_OracleONE/)
